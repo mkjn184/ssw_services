@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PHP/.idea/PHP.iml" filepath="$PROJECT_DIR$/../PHP/.idea/PHP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../php news script/.idea/php news script.iml" filepath="$PROJECT_DIR$/../php news script/.idea/php news script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wordpress.iml" filepath="$PROJECT_DIR$/.idea/wordpress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wordpress1/.idea/wordpress1.iml" filepath="$PROJECT_DIR$/../wordpress1/.idea/wordpress1.iml" />
+    </modules>
+  </component>
+</project>
